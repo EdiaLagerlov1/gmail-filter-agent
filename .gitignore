@@ -1,0 +1,12 @@
+# No sensitive data to ignore in this repo
+# This repository only contains the agent configuration
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
