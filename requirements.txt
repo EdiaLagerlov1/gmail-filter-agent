@@ -1,0 +1,22 @@
+# Gmail Filter Agent Dependencies
+# Python 3.10+
+
+# Google ADK and AI Platform
+google-genai==1.0.0
+google-adk==0.1.0
+
+# Google Gmail API
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.116.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Build and Distribution
+pyinstaller==6.3.0
+
+# Utilities
+python-dateutil==2.8.2
